@@ -123,8 +123,7 @@ Human {
   "client_id": 0,
   "advert_id": 0,
   "date_start": "2025-02-13",
-  "date_finish": "2025-02-13",
-  "result_price": 0
+  "date_finish": "2025-02-13"
 }
 4.1.1 Формат данных выходящих:
 
